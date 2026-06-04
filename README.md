@@ -15,7 +15,7 @@ A small, working set of [Hermes Agent](https://hermes-agent.nousresearch.com) sk
 Drop a skill folder into `~/.hermes/skills/`, or install directly:
 
 ```bash
-hermes skills install https://github.com/<your-username>/hermes-skills/spaces-prep/SKILL.md
+hermes skills install https://github.com/clutchpbcfo/hermes-skills/spaces-prep/SKILL.md
 ```
 
 Once installed, each skill is available as a slash command (for example `/spaces-prep`) or through natural conversation.
