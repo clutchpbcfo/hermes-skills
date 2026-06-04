@@ -1,4 +1,4 @@
-# Hermes Skills by Christian Larios
+# Hermes Skills by Clutchpbcfo
 
 A small, working set of [Hermes Agent](https://hermes-agent.nousresearch.com) skills I built for my own daily use. They follow the [agentskills.io](https://agentskills.io/specification) open standard, so they also run on other agents that read `SKILL.md`.
 
